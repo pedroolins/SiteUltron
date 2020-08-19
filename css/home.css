@@ -1,0 +1,11 @@
+.card img{
+	height: 230px;
+}
+
+.box, .card{
+	background: linear-gradient(45deg, #fff, #FFD700);
+}
+
+footer img{
+	width: 100px;
+}
