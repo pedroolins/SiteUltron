@@ -9,3 +9,40 @@
 footer img{
 	width: 100px;
 }
+
+/*Pagina da equipe*/
+
+.icone{
+	padding: 10px 0;
+}
+
+.icone .text-center{
+	width: 700px;
+}
+
+.icone img{
+	width: 250px;
+}
+
+.icone p{
+	padding: 0 50px;
+}
+
+/*Pagina dos ramos*/
+.texto{
+	width: 50%;
+}
+
+@media (max-width: 640px){
+	footer .display-3{
+		font-size: 3.5rem;
+	}
+
+	section .container .row .col-12 .display-2{
+		font-size: 4.2rem;
+	}
+
+	.texto{
+		width: 100%;
+	}
+}
